@@ -1,0 +1,37 @@
+    header -> navigation bar  -> HOME    STUDY                                   SEARCH                  PRACTICE                                         TEST  LOGIN SIGNUP
+
+                                         CLASS 10--> MATH -->                                            MATH-PROBLEMS -->                 
+                                                         CHAPTERS ....                                   CHAPPTER WISE-- -VIDEO SOLUTION  
+                                                     SCIENCE-->                                          SCIENCE- PROBLEM->
+                                                          CHAPTRERS...                                   CHAPPTERWISE -- VIDEO SOLUTION 
+                                         APTITUDE -->TOPICS
+                                                     ------
+                                  
+                                         REASONING-->TOPICS
+                                                     ------
+                                         ENGLISH-->  TOPICS
+                                                     ------
+
+
+
+
+SECTION  ----  SECTION SHOWS THE USER PREFRENCES WHCH WAS SELECTED BY USER IF CHOOSE THE OPTION MATH CLASS IT WILL SHOWS THE TOPICS OF CLASS 10 LIKE MATHA AND SCIENCE CHAPTERRS 
+
+
+
+
+
+
+
+
+FOOOTER -->
+             ABOUT                    PRACTICE     
+             CONTACT US               TOPICS --
+            PRIVACY POLICY            ----
+     
+                                           
+                                       SOCIAL MIDEA 
+
+
+
+

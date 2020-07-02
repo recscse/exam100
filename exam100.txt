@@ -1,0 +1,69 @@
+exam 100          
+         login signup
+         study - 10 th
+                     --> math ->class 10 math
+                       --> science --> class 10 math 
+                 reasoning - all tpoics of reasoning 
+                 aptitude  - all topics of aptitudes
+                 english    - all topics of english 
+               
+          practice ------
+                 -> class 10 
+                          -->math   
+                            Chapter 2 – Polynomials
+			                Chapter 3 – Pair of Linear Equations In Two Variables
+			                Chapter 4 – Quadratic Equations
+			                Chapter 5 – Arithmetic Progressions
+              	            Chapter 6 – Triangles
+                            Chapter 7 – Coordinate Geometry
+                            Chapter 8 – Introduction To Trigonometry
+                            Chapter 9 – Some Applications Of Trigonometry
+                            Chapter 10 – Circles
+                            Chapter 11 – Constructions
+                            Chapter 12 – Areas Related To Circles
+                            Chapter 13 – Surface Areas And Volumes
+                            Chapter 14 – Statistics
+                            Chapter 15 – Probability
+                   -> resoning ------
+                             -->Logical Reasoning
+                                   -->
+                                        Alphanumeric series ---  answer and youtube link 
+                                        Analogies
+                                        Artificial Language
+                                        Blood Relations
+                                        Calendars
+                                        Cause and Effect
+                                        Clocks
+                                        Coding-Decoding
+                                        Critical path
+                                        Cubes and cuboids
+                                        Data Sufficiency
+                                        Decision Making
+                                        Deductive Reasoning/Statement Analysis
+                                        Dices
+                                        Directions
+                                        Embedded Images
+                                        Figure Matrix
+                                        Input-Output
+                                        Mirror and Water Images
+                                        Odd One Out
+                                        Picture Series and Sequences
+                                        Paper Folding
+                                        Puzzles
+                                        Pattern Series and Sequences
+                                        Order & Ranking
+                                        Seating Arrangements
+                                        Shape Construction
+                                        Statement and Assumptions
+                                        Statement and Conclusions
+                                        Syllogism
+ 
+                   -> aptitude
+                          --  TOPICS 
+                   -> english   -TOPICS 
+
+
+   
+                     
+                          
+        
